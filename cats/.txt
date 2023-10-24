@@ -1,4 +1,0 @@
-<br />
-<b>Warning</b>:  include(/storage/ssd2/245/21227245/public_html/admin/api): failed to open stream: Success in <b>/storage/ssd2/245/21227245/public_html/admin/check.php</b> on line <b>34</b><br />
-<br />
-<b>Warning</b>:  include(): Failed opening 'api/' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in <b>/storage/ssd2/245/21227245/public_html/admin/check.php</b> on line <b>34</b><br />
